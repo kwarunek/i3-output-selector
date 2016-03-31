@@ -14,7 +14,7 @@ setup(
     description="GUI tool to change output for the current workspace in i3.",
     license="MIT",
     keywords="i3, workspace, select, output",
-    url="https://github.com/kwarunek/file2py",
+    url="https://github.com/kwarunek/i3-output-selector",
     long_description="GUI tool to change output for the current workspace in i3.",
     install_requires=['i3-py'],
     entry_points={
