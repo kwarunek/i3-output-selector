@@ -8,7 +8,7 @@ except ImportError:
 setup(
     name="i3-output-selector",
     packages=['i3_output_selector'],
-    version="0.0.1",
+    version="0.1.0",
     author="Krzysztof Warunek",
     author_email="krzysztof@warunek.net",
     description="GUI tool to change output for the current workspace in i3.",
