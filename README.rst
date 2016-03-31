@@ -17,6 +17,7 @@ You can use pip (python3 and python2 compatible):
 App uses Tkinter as a GUI, be sure to have it installed. On Debian/Ubunutu:
 
 ::
+   
    apt-get install python-tkinter
    # .. or
    # apt-get install python3-tk
@@ -25,7 +26,7 @@ App uses Tkinter as a GUI, be sure to have it installed. On Debian/Ubunutu:
 Usage
 ===================
 
-Simply run `i3-output-selector`
+Simply run **i3-output-selector**
 
 License
 =======
