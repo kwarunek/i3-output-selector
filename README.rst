@@ -1,5 +1,5 @@
 i3-output-selector
-=======
+==================
 
 Damn simple output selector of the current workspace in i3 WM. 
 It is based on i3-py package and Tkinter.
@@ -27,7 +27,7 @@ App uses Tkinter as a GUI, be sure to have it installed. On Debian/Ubunutu:
 
 
 Usage
-===================
+=====
 
 Simply run **i3-output-selector**.
 
