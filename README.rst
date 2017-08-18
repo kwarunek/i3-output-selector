@@ -1,7 +1,7 @@
 i3-output-selector
 ==================
 
-Damn simple output selector of the current workspace in i3 WM. 
+Dead simple output selector of the current workspace in i3 WM. 
 It is based on i3-py package and Tkinter.
 
 .. image:: https://raw.githubusercontent.com/kwarunek/i3-output-selector/master/screenshot.png
@@ -9,7 +9,7 @@ It is based on i3-py package and Tkinter.
 Installation
 ============
 
-You can use pip (python3 and python2 compatible):
+Use pip (python3 and python2 compatible):
 
 ::
 
